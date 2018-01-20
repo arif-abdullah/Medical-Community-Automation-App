@@ -1,0 +1,154 @@
+﻿@using CommunitiyMedicineApp.Models.Entity
+@model CommunitiyMedicineApp.Models.Entity.Center
+
+@{
+    Layout = null;
+    List<District> districtList = ViewBag.DistrictList;
+    List<Thana> thanaList = ViewBag.ThanaList;
+    //string centerSavedSuccess = ViewBag.CenterSavedMsg;
+    string saveSuccessMsg = ViewBag.SaveSuccessMsg;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <link href="~/css/sidebar.css" rel="stylesheet" />
+    <title>CreateCenter</title>
+    <style>
+        .field-validation-error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="@Url.Action("Index", "Home")">Home</a>
+        <hr/>
+        <a href="@Url.Action("MedicineEntry", "HeadOffice")">Medicine Setup</a>
+        <hr/>
+        <a href="@Url.Action("DiseaseEntry", "HeadOffice")">Disease Setup</a>
+        <hr/>
+        <a href="@Url.Action("CenterEntry", "HeadOffice")">Create Center</a>
+        <hr />
+        <a href="@Url.Action("SendMedicine", "HeadOffice")">Send Medicine</a>
+        <hr/>
+       
+        <a href="@Url.Action("DiseaseWiseReport", "HeadOffice")">Diseasewise Report</a>
+        <hr/>
+       
+        <a href="@Url.Action("DiseasesDemographicReport", "HeadOffice")">Demographic Report</a>
+        <hr/>
+        
+        <a href="@Url.Action("DiseaseBarChartReport", "HeadOffice")">Disease Bar Chart</a>
+        <hr />
+    </div>
+    <script>
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+            document.getElementById("main").style.marginLeft = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+            document.getElementById("main").style.marginLeft = "0";
+        }
+    </script>
+<div align="center" id="main">
+    <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
+    <h1>Community Medicine Automation</h1>
+    <h2>Create New Center Here</h2>
+    @*<h3>@centerSavedSuccess</h3>*@
+    <fieldset style="display: inline-block">
+        <legend>
+            Create Center
+        </legend>
+        <h4>@saveSuccessMsg</h4>
+        <form id="CreateCenterForm" method="POST">
+            <table>
+                <tr>
+                    <td>
+                        @Html.LabelFor(c => c.Name)
+                    </td>
+                    <td>
+                        @Html.TextBoxFor(c => c.Name)
+                        @Html.ValidationMessageFor(c => c.Name)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.LabelFor(c => c.DistrictId)
+                    </td>
+                    <td>
+                        <select name="districtId" id="districtId" style="width: 173px">
+                            <option value="">Select...</option>
+                            @foreach (var district in districtList)
+                            {
+                                <option value="@district.Id">@district.Name</option>
+                            }
+                        </select>
+                        @Html.ValidationMessageFor(c => c.DistrictId)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.LabelFor(c => c.ThanaId)
+                    </td>
+                    <td>
+                        <select name="ThanaId" id="ThanaId" style="width: 173px"></select>
+                        @Html.ValidationMessageFor(c => c.ThanaId)
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" name="save" value="Save"/>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </fieldset>
+</div>
+<script src="~/Scripts/jquery-3.1.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script>
+    $(document).ready(function() {
+
+        $("#districtId").change(function() {
+
+            var distId = $("#districtId").val();
+            if (distId > 0) {
+                $("#ThanaId").empty();
+                var json = { districtId: distId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetThanaList", "HeadOffice")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function(data) {
+                        //alert(data);
+                        $.each(data, function(key, value) {
+                            //alert(key);
+                            $("#ThanaId").append('<option value=' + value.Id + '>' + value.Name + '</option>');
+
+                        });
+                    }
+                });
+            } else {
+                {
+                    $("#ThanaId").empty().append("<option value=''>Select...</option>");
+                }
+
+            }
+
+        });
+    });
+</script>
+    
+
+</body>
+</html>

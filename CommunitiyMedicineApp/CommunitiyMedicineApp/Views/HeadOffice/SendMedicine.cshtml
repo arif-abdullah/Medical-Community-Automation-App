@@ -1,0 +1,201 @@
+﻿@using CommunitiyMedicineApp.Models.Entity
+@model CommunitiyMedicineApp.Models.Entity.SendMedicine
+@{
+    Layout = null;
+    List<SendMedicine> sendMedicines = ViewBag.SendMedicineList;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <link href="~/css/sidebar.css" rel="stylesheet" />
+    <title>Send Medicine</title>
+</head>
+<body>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="@Url.Action("Index", "Home")">Home</a>
+        <hr />
+        <a href="@Url.Action("MedicineEntry", "HeadOffice")">Medicine Setup</a>
+        <hr />
+        <a href="@Url.Action("DiseaseEntry", "HeadOffice")">Disease Setup</a>
+        <hr />
+        <a href="@Url.Action("CenterEntry", "HeadOffice")">Create Center</a>
+        <hr />
+        <a href="@Url.Action("SendMedicine", "HeadOffice")">Send Medicine</a>
+        <hr />
+
+        <a href="@Url.Action("DiseaseWiseReport", "HeadOffice")">Diseasewise Report</a>
+        <hr />
+
+        <a href="@Url.Action("DiseasesDemographicReport", "HeadOffice")">Demographic Report</a>
+        <hr />
+
+        <a href="@Url.Action("DiseaseBarChartReport", "HeadOffice")">Disease Bar Chart</a>
+        <hr />
+    </div>
+    <script>
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+            document.getElementById("main").style.marginLeft = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+            document.getElementById("main").style.marginLeft = "0";
+        }
+    </script>
+    <div align="center" id="main">
+
+        <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
+        <h1>Community Medicine Automation</h1>
+        <h2>Send Medicine</h2>
+        @if (ViewBag.Message != null)
+        {
+            <h3>@ViewBag.Message</h3>
+        }
+        @using (Html.BeginForm(FormMethod.Post))
+        {
+            <table>
+                <tr>
+                    <td>@Html.LabelFor(c => c.DistrictId)</td>
+                    <td>
+                        @Html.DropDownListFor(c => c.DistrictId, ViewBag.DistrictList as IEnumerable<SelectListItem>, "Select...")
+                        @Html.ValidationMessageFor(c => c.DistrictId)
+                    </td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.ThanaId)</td>
+                    <td>
+                        @Html.DropDownListFor(c => c.ThanaId, ViewBag.ThanaList as IEnumerable<SelectListItem>, "Select...")
+                        @Html.ValidationMessageFor(c => c.ThanaId)
+                    </td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.CenterId)</td>
+                    <td>
+                        @Html.DropDownListFor(c => c.CenterId, ViewBag.CenterList as IEnumerable<SelectListItem>, "Select...")
+                        @Html.ValidationMessageFor(c => c.CenterId)
+                    </td>
+                </tr>
+            </table>
+            <br /><br />
+            <table>
+                <tr><td>Add Medicine:</td><td></td></tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.MedicineId)</td>
+                    <td>
+                        @Html.DropDownListFor(c => c.MedicineId, ViewBag.MedicineList as IEnumerable<SelectListItem>, "Select...")
+                        @Html.ValidationMessageFor(c => c.MedicineId)
+                    </td>
+                    <td>@Html.LabelFor(c => c.Quantity)</td>
+                    <td>@Html.TextBoxFor(c => c.Quantity)</td>
+                <tr>
+                    <td><input type="submit" name="action:SendMedicine" id="add" value="Add" /></td>
+                </tr>
+            </table>
+        }
+
+        @if (ViewBag.SendMedicine != null)
+        {
+            <table class="table table-bordered">
+                <tr><th>Name</th><th>-</th><th>Quantity</th></tr>
+                @foreach (SendMedicine sendMedicine in ViewBag.SendMedicine)
+                {
+                    <tr><td>@sendMedicine.MedicineName</td><td>-</td><td>@sendMedicine.Quantity</td></tr>
+                }
+            </table>
+        }
+        @using (Html.BeginForm(FormMethod.Post))
+        {
+            <table>
+                <tr>
+                    <td><input type="hidden" name="Name" id="Name" /></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" name="action:SaveMedicine" id="save" value="Add" /></td>
+                </tr>
+            </table>
+        }
+    </div>
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#ThanaId').attr("disabled", true);
+            $('#CenterId').attr("disabled", true);
+
+
+            $('#add').click(function() {
+                $('#ThanaId').attr("disabled", false);
+                $('#CenterId').attr("disabled", false);
+            });
+
+
+            var thanaId, districtId;
+            $("#DistrictId").change(function () {
+
+                districtId = parseInt($("#DistrictId").val());
+                if (districtId > 0) {
+                    $("#ThanaId").empty();
+                    $('#ThanaId').attr("disabled", false);
+                    var json = { districtId: districtId };
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetThanaList", "HeadOffice")',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function (data) {
+                            //alert(data);
+                            $.each(data, function (key, value) {
+                                //alert(key);
+                                $("#ThanaId").append('<option value=' + value.Id + '>' + value.Name + '</option>');
+
+                            });
+                        }
+                    });
+                } else {
+                    {
+                        $("#ThanaId").empty().append("<option value=''>Select...</option>");
+                    }
+
+                }
+
+            });
+            $("#ThanaId").change(function () {
+
+                thanaId = parseInt($("#ThanaId").val());
+                if (thanaId > 0) {
+                    $("#CenterId").empty();
+                    $('#CenterId').attr("disabled", false);
+                    var json = { ThanaId: thanaId, districtId: districtId };
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetCenterList", "HeadOffice")',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function (data) {
+                            //alert(data);
+                            $.each(data, function (key, value) {
+                                //alert(key);
+                                $("#CenterId").append('<option value=' + value.Id + '>' + value.Name + '</option>');
+
+                            });
+                        }
+                    });
+                }
+                else {
+                    {
+                        $("#CenterId").empty().append("<option value=''>Select...</option>");
+                    }
+
+                }
+            });
+        });
+    </script>
+</body>
+</html>

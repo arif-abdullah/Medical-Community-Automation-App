@@ -1,0 +1,331 @@
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll.config
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.pdb
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\WebGrease.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.pdb
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csprojResolveAssemblyReference.cache
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.dll
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.pdb
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.newBeginning.resources
+C:\Users\Bdjobs\Documents\Visual Studio 2013\Projects\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csproj.GenerateResource.Cache
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll.config
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.pdb
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\WebGrease.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.UpdatedNameSendMedicine.resources
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csproj.GenerateResource.Cache
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.dll
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.pdb
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csprojResolveAssemblyReference.cache
+C:\Users\Mahmudur\Desktop\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedTreatment.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll.config
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.pdb
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Microsoft.Web.Infrastructure.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\WebGrease.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.xml
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.pdb
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.UpdatedNameSendMedicine.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedTreatment.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.ChangedDateTimeFormateInTreatment.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DontKnowWhatChanaged.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddCenterIdInTreatment.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DateTimeEditedInTreatment.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AgaintDateTimeEditedInTreatment.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.addedMedicineInSendMedicine.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csproj.GenerateResource.Cache
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.dll
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.pdb
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csprojResolveAssemblyReference.cache
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdTypeChangedIntoint64AndnumberofServiceGiveIsAddedInTreatment.resources
+G:\New folder (6)\New folder (4)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdNoChangeIntoString.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csprojResolveAssemblyReference.cache
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.UpdatedNameSendMedicine.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedTreatment.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.ChangedDateTimeFormateInTreatment.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DontKnowWhatChanaged.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddCenterIdInTreatment.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DateTimeEditedInTreatment.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AgaintDateTimeEditedInTreatment.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.addedMedicineInSendMedicine.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdTypeChangedIntoint64AndnumberofServiceGiveIsAddedInTreatment.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdNoChangeIntoString.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csproj.GenerateResource.Cache
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.pdb
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll.config
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.pdb
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\itextsharp.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Microsoft.Web.Infrastructure.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\WebGrease.dll
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\itextsharp.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.xml
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.pdb
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.latestUpdate.resources
+G:\New folder (4)\latest\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedNameAgeAddressInTreatment.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll.config
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.pdb
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\itextsharp.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\WebGrease.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\itextsharp.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.pdb
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csprojResolveAssemblyReference.cache
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.UpdatedNameSendMedicine.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedTreatment.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.ChangedDateTimeFormateInTreatment.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DontKnowWhatChanaged.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddCenterIdInTreatment.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DateTimeEditedInTreatment.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AgaintDateTimeEditedInTreatment.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.addedMedicineInSendMedicine.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdTypeChangedIntoint64AndnumberofServiceGiveIsAddedInTreatment.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdNoChangeIntoString.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.latestUpdate.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedNameAgeAddressInTreatment.resources
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csproj.GenerateResource.Cache
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.dll
+C:\Users\Mahfuz\Desktop\MahmudCommunitiyMedicineApp\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.pdb
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll.config
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.pdb
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\itextsharp.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\WebGrease.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\itextsharp.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.UpdatedNameSendMedicine.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedTreatment.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.ChangedDateTimeFormateInTreatment.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DontKnowWhatChanaged.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddCenterIdInTreatment.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DateTimeEditedInTreatment.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AgaintDateTimeEditedInTreatment.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.addedMedicineInSendMedicine.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdTypeChangedIntoint64AndnumberofServiceGiveIsAddedInTreatment.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdNoChangeIntoString.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.latestUpdate.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedNameAgeAddressInTreatment.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedCutomizationinDoctor.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedRequiredInDoctor.resources
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csproj.GenerateResource.Cache
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.dll
+C:\Users\Mahmudur\Desktop\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.pdb
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll.config
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\CommunitiyMedicineApp.pdb
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\itextsharp.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\WebGrease.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\itextsharp.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Newtonsoft.Json.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Helpers.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Mvc.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Optimization.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.Razor.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\bin\Antlr3.Runtime.pdb
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csprojResolveAssemblyReference.cache
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.UpdatedNameSendMedicine.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedTreatment.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.ChangedDateTimeFormateInTreatment.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DontKnowWhatChanaged.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddCenterIdInTreatment.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.DateTimeEditedInTreatment.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AgaintDateTimeEditedInTreatment.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.addedMedicineInSendMedicine.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdTypeChangedIntoint64AndnumberofServiceGiveIsAddedInTreatment.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.VoterIdNoChangeIntoString.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.latestUpdate.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedNameAgeAddressInTreatment.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedCutomizationinDoctor.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.Migrations.AddedRequiredInDoctor.resources
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.csproj.GenerateResource.Cache
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.dll
+C:\Users\Bdjobs\Desktop\New folder (2)\last\New folder (2)\CommunitiyMedicineApp\CommunitiyMedicineApp\obj\Debug\CommunitiyMedicineApp.pdb
